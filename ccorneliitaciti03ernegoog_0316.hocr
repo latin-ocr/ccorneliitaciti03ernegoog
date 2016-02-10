@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./ccorneliitaciti03ernegoog_0316.png"; bbox 0 0 2986 5138; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 441 608 1222 708">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 441 608 1222 708">
+     <span class='ocr_line' id='line_1_1' title="bbox 441 608 1222 708; baseline 0.004 -29"><span class='ocrx_word' id='word_1_1' title='bbox 441 608 745 679; x_wconf 69' lang='lat' dir='ltr'>AnnAmuM</span> <span class='ocrx_word' id='word_1_2' title='bbox 779 609 888 681; x_wconf 76' lang='lat' dir='ltr'>L1n.</span> <span class='ocrx_word' id='word_1_3' title='bbox 920 608 982 682; x_wconf 87' lang='lat' dir='ltr'>IV.</span> <span class='ocrx_word' id='word_1_4' title='bbox 1152 631 1222 708; x_wconf 81' lang='lat'>259</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 252 776 1225 1090">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 252 776 1225 1090">
+     <span class='ocr_line' id='line_1_2' title="bbox 254 776 1225 877; baseline 0 -26"><span class='ocrx_word' id='word_1_5' title='bbox 254 776 444 852; x_wconf 83' lang='lat' dir='ltr'>Caesaribus</span> <span class='ocrx_word' id='word_1_6' title='bbox 471 778 673 877; x_wconf 84' lang='lat' dir='ltr'>sanguinem</span> <span class='ocrx_word' id='word_1_7' title='bbox 700 779 898 876; x_wconf 81' lang='lat' dir='ltr'>delegerat:</span> <span class='ocrx_word' id='word_1_8' title='bbox 940 802 1021 850; x_wconf 85' lang='lat' dir='ltr'>nam</span> <span class='ocrx_word' id='word_1_9' title='bbox 1054 776 1082 849; x_wconf 91' lang='lat' dir='ltr'>is</span> <span class='ocrx_word' id='word_1_10' title='bbox 1109 777 1225 851; x_wconf 84' lang='lat' dir='ltr'>aviam</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 252 896 1224 998; baseline 0.001 -29"><span class='ocrx_word' id='word_1_11' title='bbox 252 896 452 990; x_wconf 73' lang='lat' dir='ltr'>O&amp;aviam,</span> <span class='ocrx_word' id='word_1_12' title='bbox 470 903 503 974; x_wconf 86' lang='lat'>&amp;</span> <span class='ocrx_word' id='word_1_13' title='bbox 521 924 677 998; x_wconf 85' lang='lat' dir='ltr'>peream</span> <span class='ocrx_word' id='word_1_14' title='bbox 694 898 894 997; x_wconf 85' lang='lat' dir='ltr'>Augustum</span> <span class='ocrx_word' id='word_1_15' title='bbox 910 898 1121 970; x_wconf 83' lang='lat' dir='ltr'><strong>avunculum</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 1137 923 1224 994; x_wconf 83' lang='lat' dir='ltr'><strong>prae·</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 254 1013 394 1090; baseline 0.007 -1"><span class='ocrx_word' id='word_1_17' title='bbox 254 1013 394 1090; x_wconf 86' lang='lat' dir='ltr'>ferebat.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1498 5138">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1498 5138">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1498 5138; baseline 0 0"><span class='ocrx_word' id='word_1_18' title='bbox 0 0 1498 5138; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
